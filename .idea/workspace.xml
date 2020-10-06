@@ -35,6 +35,11 @@
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WorkAndLearning\2019Learning\GoProject\Programming-Practice\clusterChain\cmd\cli" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="clusterChain" />
@@ -81,22 +86,22 @@
       <screen x="-1920" y="6" width="1920" height="1040" />
     </state>
     <state x="-1105" y="344" key="FileChooserDialogImpl/0.0.1920.1040/-1920.6.1920.1040@-1920.6.1920.1040" timestamp="1601477815652" />
-    <state width="879" height="203" key="GridCell.Tab.0.bottom" timestamp="1601378509337">
+    <state width="1251" height="204" key="GridCell.Tab.0.bottom" timestamp="1601969743629">
       <screen x="-1920" y="6" width="1920" height="1040" />
     </state>
-    <state width="879" height="203" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.6.1920.1040@-1920.6.1920.1040" timestamp="1601378509337" />
-    <state width="879" height="203" key="GridCell.Tab.0.center" timestamp="1601378509337">
+    <state width="1251" height="204" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.6.1920.1040@-1920.6.1920.1040" timestamp="1601969743629" />
+    <state width="1251" height="204" key="GridCell.Tab.0.center" timestamp="1601969743629">
       <screen x="-1920" y="6" width="1920" height="1040" />
     </state>
-    <state width="879" height="203" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.6.1920.1040@-1920.6.1920.1040" timestamp="1601378509337" />
-    <state width="879" height="203" key="GridCell.Tab.0.left" timestamp="1601378509337">
+    <state width="1251" height="204" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.6.1920.1040@-1920.6.1920.1040" timestamp="1601969743629" />
+    <state width="1251" height="204" key="GridCell.Tab.0.left" timestamp="1601969743629">
       <screen x="-1920" y="6" width="1920" height="1040" />
     </state>
-    <state width="879" height="203" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.6.1920.1040@-1920.6.1920.1040" timestamp="1601378509337" />
-    <state width="879" height="203" key="GridCell.Tab.0.right" timestamp="1601378509337">
+    <state width="1251" height="204" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.6.1920.1040@-1920.6.1920.1040" timestamp="1601969743629" />
+    <state width="1251" height="204" key="GridCell.Tab.0.right" timestamp="1601969743629">
       <screen x="-1920" y="6" width="1920" height="1040" />
     </state>
-    <state width="879" height="203" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.6.1920.1040@-1920.6.1920.1040" timestamp="1601378509337" />
+    <state width="1251" height="204" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.6.1920.1040@-1920.6.1920.1040" timestamp="1601969743629" />
     <state x="-879" y="256" key="RollbackChangesDialog" timestamp="1601377801770">
       <screen x="-1920" y="6" width="1920" height="1040" />
     </state>

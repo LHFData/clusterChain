@@ -2,11 +2,11 @@ package main
 
 import (
 	"./coin"
-	"fmt"
-	"strconv"
+	"./cli"
 )
 
-func main() {
+
+/*func main() {
 	bc := coin.NewBlockchain()
 	bc.AddBlock("send 1 BTC To me")
 	bc.AddBlock("send 2 more to WY")
@@ -20,4 +20,12 @@ func main() {
 
 	}
 
+}*/
+
+func main(){
+	bc :=coin.NewBlockchain()
+	defer bc.DB.Close()
+
+	cli :=cli.CLI{bc}
+	cli.Run()
 }
